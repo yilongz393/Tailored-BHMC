@@ -42,3 +42,4 @@ In addition to the 4 files, the code also prints on the screen the information a
 * * *
 1. The default box dimension is "15*15*10 times (Radius of NP I)". Periodic boundary conditions were applied to x and y dimensions, and fixed boundary was applied to z dimension. If you need to change the box dimensions (e.g., for larger system size), you can go to Line 53 in "BHMC.h" and change the parameter initialization of "HEIGHT" (for dimension z) and "DENS" (for dimension x and y)
 2. An example for searching the hexagonally arranged bilayer is included.
+3. Source data for binary NP superlattices discovered in this work is also attached.
