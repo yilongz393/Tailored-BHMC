@@ -50,4 +50,6 @@ In addition to these 4 files, the code also prints on the screen information abo
 2. An example for searching the hexagonally arranged bilayer is included
 * * *
 
-## If you use this code, please cite our paper: Yilong Zhou and Gaurav Arya "Discovery of Two-Dimensional Binary Nanoparticle Superlattices Using Global Monte Carlo Optimization".
+## If you use this code, please cite our paper: 
+
+Zhou, Y., Arya, G. Discovery of two-dimensional binary nanoparticle superlattices using global Monte Carlo optimization. Nat Commun 13, 7976 (2022). https://doi.org/10.1038/s41467-022-35690-8
